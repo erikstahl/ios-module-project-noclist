@@ -1,1 +1,20 @@
 .DS_Store
+let Ethan Hunt = 8
+print("\(agent)")
+let Jim Phelps = 9
+print("\(agent)")
+let Claire Phelps = 5
+print("\(agent)")
+let Franz Krieger = 4
+print("\(agent)")
+let Luther Stickell = 4
+print("\(agent)")
+let Sarah Davies = 5
+print("\(agent)")
+let Max RotGrab = 4
+print("\(agent)")
+if agent <5
+print("doesnt qualify to next mission")
+if agent >6
+print("qualify to next mission)
+print("\(agent)")
