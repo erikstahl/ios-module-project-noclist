@@ -1,1 +1,14 @@
-.DS_Store
+
+let Ethan Hunt = 8
+let Jim Phelps = 9
+let Claire Phelps = 5
+let Franz Krieger = 4
+let Luther Stickell = 4
+let Sarah Davies = 5
+let Max RotGrab = 4
+if agent acceslevel <5
+print("doesnt qualify to next mission")
+print("\(agent)")
+if agent acceslevel >6
+print("qualify to next mission)
+print("\(agent)")
